@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"></title>
+                <author>
+                    <persName>
+                        <surname>Kosztolányi</surname>
+                        <forename>Dezső</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:116439</idno>
+                        <ref type="url">http://biblio.digiphil.hu/cgi-bin/koha/opac-authoritiesdetail.pl?authid=116439</ref>
+                        <idno type="VIAF">VIAF:17232459</idno>
+                        <ref type="url">http://viaf.org/viaf/17232459/</ref>
+                    </persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname></surname>
+                        <forename></forename>
+                    </persName>
+                    <persName>
+                        <surname></surname>
+                        <forename></forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname></surname>
+                        <forename></forename>
+                    </persName>
+                    
+                </respStmt>
+                <respStmt>
+                    <resp>XML-control</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                
+                <respStmt>
+                    <resp></resp>
+                    <orgName> <ref type="url"></ref>
+                    </orgName>
+                </respStmt>
+                <respStmt>
+                    <resp></resp>
+                    <orgName> <ref type="url"></ref>
+                        <ref type="url"></ref>
+                    </orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName></orgName>
+                    <ref type="url"></ref>
+                    <ref type="url"></ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="KOHA_AUTH"></idno>
+                    <ref type="url"></ref>
+                </pubPlace>
+                <date>2016</date>
+                <availability>
+                    <p></p>
+                    <p><ref type="url"
+                        ></ref></p>
+                </availability>
+                <idno type="PID"></idno>
+                <idno type="url"></idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s"></title>
+                <respStmt>
+                    <resp></resp>
+                    <persName>
+                        <surname></surname>
+                        <surname></surname>
+                        <forename></forename>
+                    </persName>
+                    <persName>
+                        <surname></surname>
+                        <forename></forename>
+                    </persName>
+                </respStmt>
+                
+            </seriesStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                            <idno type="KOHA_AUTH"></idno>
+                            <ref type="url"></ref>
+                            <idno type="VIAF"></idno>
+                            <ref type="url"></ref>
+                        </persName>
+                    </author>
+                    <title></title>
+                    <respStmt>
+                        <resp></resp>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp></resp>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp></resp>
+                        <persName>
+                            <surname></surname>
+                            <forename></forename>
+                        </persName>
+                    </respStmt>
+                    <date></date>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>
+                <title>Rövidítések jegyzéke</title>
+            </head>
+            <div xml:id="d.1">
+                <list xml:id="list.1">
+                    <item xml:id="i.1">
+                        <p xml:id="p.1">A</p>
+                        <p xml:id="p.2">az Athenaeum Kiadónál 1924-ben megjelent regénykiadás </p>
+                    </item>
+                    <item xml:id="i.2">
+                        <p xml:id="p.3">ÁÓ</p>
+                        <p xml:id="p.4"><bibl>Kosztolányi Dezső, <title rend="italic">Álom és ólom</title>, s. a. r. Réz Pál, Budapest, Szépirodalmi, 1969.</bibl> </p>
+                    </item>
+                    <item xml:id="i.3">
+                        <p xml:id="p.5">CsLev</p>
+                        <p xml:id="p.6"><bibl><title rend="italic">A Kosztolányi család levelezéséből</title>, s. a. r. Dér Zoltán, Szabadka, Életjel, 1988.</bibl> </p>
+                    </item>
+                    <item xml:id="i.4">
+                        <p xml:id="p.7">E</p>
+                        <p xml:id="p.8"><title rend="italic">Ellenzék</title> – a regény folyóiratbeli közlése 1923. április 29.– július 11. </p>
+                    </item>
+                    <item xml:id="i.5">
+                        <p xml:id="p.9">ÉAKK</p>
+                        <p xml:id="p.10"><bibl>Kosztolányi Dezső, <title rend="italic">Édes Anna</title>, s. a. r. Veres András, Pozsony, Kalligram, 2010.</bibl></p>
+                    </item>
+                    <item xml:id="i.6">
+                        <p xml:id="p.11">ÉP</p>
+                        <p xml:id="p.12"><bibl>Kosztolányi Dezső, <title rend="italic">Az élet primadonnái</title>, Budapest, Palatinus, 1997.</bibl> </p>
+                    </item>
+                    <item xml:id="i.7">
+                        <p xml:id="p.13">f</p>
+                        <p xml:id="p.14">a <title rend="italic">Függelék</title>ben szereplő rektók sorszámához rendelt megkülönböztető jelzés </p>
+                    </item>
+                    <item xml:id="i.8">
+                        <p xml:id="p.15"><title rend="italic">Füst</title></p>
+                        <p xml:id="p.16"><bibl>Kosztolányi Dezső, <title rend="italic">Füst</title>, s. a. r. Réz Pál, Budapest, Szépirodalmi, 1970.</bibl> </p>
+                    </item>
+                    <item xml:id="i.9">
+                        <p xml:id="p.17">GyG</p>
+                        <p xml:id="p.18"><bibl>Kosztolányi Dezső, <title rend="italic">Gyémántgöröngyök</title>, Budapest, Magyar Könyvklub, 2001.</bibl> </p>
+                    </item>
+                    <item xml:id="i.10">
+                       <p xml:id="p.19"><title rend="italic">Hattyú</title></p>
+                        <p xml:id="p.20"><bibl>Kosztolányi Dezső, <title rend="italic">Hattyú</title>, s. a. r. Réz Pál, Budapest, Szépirodalmi, 1972. </bibl></p>
+                    </item>
+                    <item xml:id="i.11">
+                        <p xml:id="p.21">JKK</p>
+                        <p xml:id="p.22">jelen kritikai kiadás</p>
+                    </item>
+                    <item xml:id="i.12">
+                        <p xml:id="p.23"> ~ JKK </p>
+                        <p xml:id="p.24">a <title rend="italic">Keletkezéstörténet</title>ben jelölt szövegpárhuzamok jelzésére </p>
+                    </item>
+                    <item xml:id="i.13">
+                        <p xml:id="p.25">KD</p>
+                        <p xml:id="p.26">Kosztolányi Dezső</p>
+                    </item>
+                    <item xml:id="i.14">
+                        <p xml:id="p.27">KDLN</p>
+                        <p xml:id="p.28"><bibl>Kosztolányi Dezső, <title rend="italic">Levelek ‒ Naplók</title>, s. a. r. Réz Pál, Budapest, Osiris, 1996. </bibl></p>
+                    </item>
+                    <item xml:id="i.15">
+                        <p xml:id="p.29">LE</p>
+                        <p xml:id="p.30"><bibl>Kosztolányi Dezső, <title rend="italic">A léggömb elrepül</title>, s. a. r. Réz Pál, Budapest, Szépirodalmi, 1981.</bibl></p>
+                    </item>
+                    <item xml:id="i.16">
+                        <p xml:id="p.31">MNG</p>
+                        <p xml:id="p.32">Magyar Nemzeti Galéria</p>
+                    </item>
+                    <item xml:id="i.17">
+                        <p xml:id="p.33">MTAK</p>
+                        <p xml:id="p.34">Magyar Tudományos Akadémia Könyvtára </p>
+                    </item>
+                    <item xml:id="i.18">
+                        <p xml:id="p.35">NKK</p>
+                        <p xml:id="p.36"><bibl>Kosztolányi Dezső, <title rend="italic">Nero, a véres költő</title>, s. a. r. Takács László, Pozsony, Kalligram, 2011. </bibl></p>
+                    </item>
+                    <item xml:id="i.19">
+                        <p xml:id="p.37">NyL</p>
+                        <p xml:id="p.38"><bibl>Kosztolányi Dezső, <title rend="italic">Nyelv és lélek</title>, s. a. r. Réz Pál, Budapest, Szépirodalmi, 1971. </bibl></p>
+                    </item>
+                    <item xml:id="i.20">
+                        <p xml:id="p.39">r</p>
+                        <p xml:id="p.40">rektó</p>
+                    </item>
+                    <item xml:id="i.21">
+                        <p xml:id="p.41">sz.n.</p>
+                        <p xml:id="p.42">számozás nélkül</p>
+                    </item>
+                    <item xml:id="i.22">
+                        <p xml:id="p.43">v</p>
+                        <p xml:id="p.44">verzó</p>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>
